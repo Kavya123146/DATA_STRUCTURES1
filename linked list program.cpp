@@ -1,4 +1,4 @@
-//linked list program
+//linked list program for stack
 #include<stdio.h>
 #include<stdlib.h>
 struct stack
